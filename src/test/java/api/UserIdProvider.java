@@ -26,7 +26,6 @@ public class UserIdProvider {
         for (int i = 0; i < userIdsList.size(); i++) {
             userIdsArray[i] = userIdsList.get(i);
         }
-
         return userIdsArray;
     }
 }
