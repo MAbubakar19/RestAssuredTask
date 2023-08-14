@@ -4,6 +4,10 @@
         <parameter name="userId" value="3" />
         <classes>
             <class name="api.APITestSuite"/>
+            <class name="api.Assertions"/>
+            <class name="api.BaseUrl"/>
+            <class name="api.Endpoints"/>
+            <class name="api.UserIdProvider"/>
         </classes>
     </test>
 </suite>
